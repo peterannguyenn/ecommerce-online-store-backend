@@ -12,6 +12,9 @@ $ cd ecommerce-online-store-backend
 # Install dependencies
 $ npm install
 
+# Create Local MongoDB Collection
+$ Create Products, Users, Orders, Categories Collections and import Database files
+
 # Start
 $ npm start
 
