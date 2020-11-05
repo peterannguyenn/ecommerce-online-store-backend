@@ -14,3 +14,8 @@ $ npm install
 
 # Start
 $ npm start
+
+# Images
+![Screenshot](rsz_1homepage.png)
+![Screenshot](rsz_productpage.png)
+
