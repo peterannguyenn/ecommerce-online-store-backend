@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "5f618e40ed59e363acabe233"
+  },
+  "name": "Rice Cooker",
+  "createdAt": {
+    "$date": "2020-09-16T04:02:08.748Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-16T04:02:08.748Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f618e51ed59e363acabe234"
+  },
+  "name": "Food Packaging",
+  "createdAt": {
+    "$date": "2020-09-16T04:02:25.760Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-16T04:02:25.760Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f618e64ed59e363acabe235"
+  },
+  "name": "Cookware",
+  "createdAt": {
+    "$date": "2020-09-16T04:02:44.699Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-16T04:02:44.699Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f618e6ced59e363acabe236"
+  },
+  "name": "Bags",
+  "createdAt": {
+    "$date": "2020-09-16T04:02:52.137Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-16T04:02:52.137Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f618e74ed59e363acabe237"
+  },
+  "name": "Plastic Cups",
+  "createdAt": {
+    "$date": "2020-09-16T04:03:00.024Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-16T04:03:00.024Z"
+  },
+  "__v": 0
+}]

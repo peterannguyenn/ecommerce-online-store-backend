@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "5f618d2eed59e363acabe232"
+  },
+  "role": 1,
+  "history": [],
+  "name": "Test User 1",
+  "email": "test1@gmail.com",
+  "salt": "c07da760-f7d0-11ea-b0f8-638976446f19",
+  "hashed_password": "e25f7212172f768f27ae1cc5c64275c22e53b5a1",
+  "createdAt": {
+    "$date": "2020-09-16T03:57:34.295Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-16T03:57:34.295Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6192b5ed59e363acabe23f"
+  },
+  "role": 0,
+  "history": [
+    {
+      "_id": "5f6191ceed59e363acabe23e",
+      "name": "Brown Paper Bag",
+      "description": "paper bag",
+      "category": {
+        "_id": "5f618e6ced59e363acabe236",
+        "name": "Bags",
+        "createdAt": "2020-09-16T04:02:52.137Z",
+        "updatedAt": "2020-09-16T04:02:52.137Z",
+        "__v": 0
+      },
+      "quantity": 1,
+      "transaction_id": "53qpvg1w",
+      "amount": "59.00"
+    }
+  ],
+  "name": "Test User 2",
+  "email": "test2@gmail.com",
+  "salt": "0c3d41d0-f7d4-11ea-b0f8-638976446f19",
+  "hashed_password": "32fdb2ba5a15388e663f00939300ca3337c92f91",
+  "createdAt": {
+    "$date": "2020-09-16T04:21:09.870Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-16T04:37:57.972Z"
+  },
+  "__v": 0
+}]

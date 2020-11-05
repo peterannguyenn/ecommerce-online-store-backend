@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "5f6196a5ed59e363acabe240"
+  },
+  "status": "Not processed",
+  "products": [
+    {
+      "_id": {
+        "$oid": "5f6191ceed59e363acabe23e"
+      },
+      "name": "Brown Paper Bag",
+      "price": 59,
+      "createdAt": {
+        "$date": "2020-09-16T04:17:18.709Z"
+      },
+      "updatedAt": {
+        "$date": "2020-09-16T04:17:18.709Z"
+      },
+      "__v": 0,
+      "count": 1
+    }
+  ],
+  "transaction_id": "53qpvg1w",
+  "amount": 59,
+  "address": "123 Sesame Street",
+  "user": {
+    "$oid": "5f6192b5ed59e363acabe23f"
+  },
+  "createdAt": {
+    "$date": "2020-09-16T04:37:57.990Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-16T04:37:57.990Z"
+  },
+  "__v": 0
+}]
