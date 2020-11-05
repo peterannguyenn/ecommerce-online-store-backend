@@ -2,7 +2,7 @@ const { Order, CartItem } = require('../models/order');
 const { errorHandler } = require('../helpers/dbErrorHandler');
 // sendgrid for email npm i @sendgrid/mail
 const sgMail = require('@sendgrid/mail');
-sgMail.setApiKey('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');
+sgMail.setApiKey('Enter Your Key Here');
 
 exports.orderById = (req, res, next, id) => {
     Order.findById(id)
